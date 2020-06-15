@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MobDev_CW2</string>
+    <string name="registerproduct">Register Product</string>
+    <string name="display_products">Display Products</string>
+    <string name="availability">Availability</string>
+    <string name="edit_products">Edit Products</string>
+    <string name="search">Search</string>
+    <string name="recipes">Recipes</string>
+    <string name="enter_ingredient_name">Enter Ingredient Name</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="success">Success!</string>
+    <string name="search_by_name_or_description">Search by Name or Description</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="lookup">Lookup</string>
+    <string name="find_recipe">Find Recipe</string>
+    <string name="tick_the_products_to_find_recipe">Tick The Products to Find Recipe</string>
+    <string name="welcome_to_recipes_app">Welcome to Recipes App</string>
+</resources>
